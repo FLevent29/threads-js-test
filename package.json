@@ -2,7 +2,6 @@
   "name": "threads-js-test",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "tsc -p tsconfig.json && node dist/index.js",
     "format": "prettier --write \"./**/*.ts\""
